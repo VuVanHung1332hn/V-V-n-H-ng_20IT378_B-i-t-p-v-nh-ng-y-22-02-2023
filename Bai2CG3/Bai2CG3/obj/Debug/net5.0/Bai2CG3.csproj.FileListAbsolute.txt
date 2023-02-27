@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\bin\Debug\net5.0\Bai2CG3.exe
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\bin\Debug\net5.0\Bai2CG3.deps.json
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\bin\Debug\net5.0\Bai2CG3.runtimeconfig.json
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\bin\Debug\net5.0\Bai2CG3.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\bin\Debug\net5.0\Bai2CG3.dll
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\bin\Debug\net5.0\Bai2CG3.pdb
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\Bai2CG3.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\Bai2CG3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\Bai2CG3.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\Bai2CG3.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\Bai2CG3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\Bai2CG3.dll
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\refint\Bai2CG3.dll
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\Bai2CG3.pdb
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\Bai2CG3.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Bai2CG3\Bai2CG3\obj\Debug\net5.0\ref\Bai2CG3.dll
